@@ -1,4 +1,4 @@
-[![image](https://img.shields.io/npm/v/@nikolasandreou/keep3r-cli-keep3rliquiditymanagerjob.svg?style=flat-square)](https://www.npmjs.org/package/@mushroomsfi/keep3r-cli-job)
+[![image](https://img.shields.io/npm/v/@nikolasandreou/keep3r-cli-keep3rliquiditymanagerjob.svg?style=flat-square)](https://www.npmjs.com/package/@nikolasandreou/keep3r-cli-keep3rliquiditymanagerjob)
 
 # Keep3r Liquidity Manager Job
 
